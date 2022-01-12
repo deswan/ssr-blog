@@ -25,7 +25,7 @@
     "fs-extra": "^7.0.1",
     "http-proxy": "^1.17.0",
     "lru-cache": "^5.1.1",
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "markdown-it-prism": "^2.0.1",
     "markdown-meta": "0.0.3",
     "rimraf": "^2.6.2",
